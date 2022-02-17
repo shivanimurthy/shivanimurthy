@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shivanimurthy
-- 👀 I’m interested in learning Flutter, Python, Django
-- 🌱 I’m currently learning Python, Django, Flutter
+- 👀 I’m currently working as Analyst in Data Operations team
+- 🌱 Skilled in Microsoft Azure, SSMS and Azure Data Factory
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me shivanimurthy1011gmail.com
-
+- 📫 Reach me at shivanimurthy1011gmail.com
