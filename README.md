@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivanimurthy
-- 👀 I’m currently working as Analyst in Data Operations team
-- 🌱 Skilled in Microsoft Azure, SSMS and Azure Data Factory
+- 👀 I’m currently working as Data Engineer / Data Analyst
+- 🌱 Skilled in Microsoft Azure, SSMS, Azure Data Factory, Python, SQL, Power BI
 - 💞️ I’m looking to collaborate on ..
 - 📫 Reach me at shivanimurthy1011gmail.com
